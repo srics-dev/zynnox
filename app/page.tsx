@@ -264,8 +264,7 @@ export default function TechConsultingWebsite() {
             </Badge>
             <h2 className="text-4xl lg:text-5xl font-bold mb-6">Leading the Digital Revolution</h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              For over a decade, we've been at the forefront of technological innovation, helping businesses worldwide
-              harness the power of cutting-edge technology to achieve unprecedented growth.
+              &quot;For over a decade, we&apos;ve been at the forefront of technological innovation, helping businesses worldwide harness the power of cutting-edge technology to achieve unprecedented growth.
             </p>
           </div>
 
@@ -367,7 +366,7 @@ export default function TechConsultingWebsite() {
             <Badge className="bg-green-600/20 text-green-400 border-green-600/30 mb-4">Client Testimonials</Badge>
             <h2 className="text-4xl lg:text-5xl font-bold mb-6">What Our Clients Say</h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Don't just take our word for it. Here's what industry leaders say about our work.
+              Don&apos;t just take our word for it. Here&apos;s what industry leaders say about our work.
             </p>
           </div>
 
@@ -384,7 +383,7 @@ export default function TechConsultingWebsite() {
                     ))}
                   </div>
                   <CardDescription className="text-gray-300 text-base leading-relaxed">
-                    "{testimonial.content}"
+                    &quot;{testimonial.content}&quot;
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -406,7 +405,7 @@ export default function TechConsultingWebsite() {
             <Badge className="bg-purple-600/20 text-purple-400 border-purple-600/30 mb-4">Case Studies</Badge>
             <h2 className="text-4xl lg:text-5xl font-bold mb-6">Success Stories</h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Explore how we've helped businesses transform their operations and achieve remarkable results.
+              Explore how we&apos;ve helped businesses transform their operations and achieve remarkable results.
             </p>
           </div>
 
@@ -479,7 +478,7 @@ export default function TechConsultingWebsite() {
             <Badge className="bg-blue-600/20 text-blue-400 border-blue-600/30 mb-4">Get In Touch</Badge>
             <h2 className="text-4xl lg:text-5xl font-bold mb-6">Ready to Transform Your Business?</h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Let's discuss how we can help you achieve your technology goals. Get a free consultation and project
+              Let&apos;s discuss how we can help you achieve your technology goals. Get a free consultation and project
               estimate.
             </p>
           </div>
@@ -549,7 +548,7 @@ export default function TechConsultingWebsite() {
     <CardHeader>
       <CardTitle className="text-white text-2xl">Get Free Consultation</CardTitle>
       <CardDescription className="text-gray-300">
-        Fill out the form below and we'll get back to you within 24 hours.
+        Fill out the form below and we&apos;ll get back to you within 24 hours.
       </CardDescription>
     </CardHeader>
     <CardContent className="space-y-6">
