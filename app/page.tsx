@@ -111,7 +111,7 @@ export default function TechConsultingWebsite() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-              ZYNNOX SOLUTION
+              ZYNNOX SOLUTIONS
             </div>
 
             {/* Desktop Navigation */}
@@ -626,7 +626,7 @@ export default function TechConsultingWebsite() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="space-y-4">
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-                TechFlow Solutions
+                Zynnox Solutions
               </div>
               <p className="text-gray-400">
                 Transforming businesses through innovative technology solutions and expert consulting services.
